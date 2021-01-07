@@ -6,6 +6,6 @@ package com.chinasoft.file;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("hhh");
     }
 }
